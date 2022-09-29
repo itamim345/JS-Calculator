@@ -15,6 +15,7 @@ body{
     text-align: center;
     background: #FFF;
     margin: 6vh 0;
+    border: 1.5px solid tomato;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
