@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 body{
     background: #f7f1e3;
+    font-family: 'Sora', sans-serif;
 }
 .container {
     width: 30%;
@@ -22,6 +24,9 @@ body{
     font-size: 2rem;
     border-bottom: 1.5px solid #dfe4ea;
     background-color: #fcfcfc;
+}
+.calculator h4 {
+    margin: .5rem 0;
 }
 .screen input:focus {
     outline: none;
@@ -49,6 +54,6 @@ body{
 }
 .btn-row,.top-btn-row,.bottom-btn-row span {
     font-size: 2rem;
-    padding: 1rem 0;
+    padding: .6rem 0;
     cursor: pointer;
 }
