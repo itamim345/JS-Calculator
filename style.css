@@ -44,7 +44,7 @@ body{
 }
 .top-btn-row {
     display: grid;
-    grid-template-columns: 15rem 5rem;
+    grid-template-columns: 7.5rem 7.5rem 5rem;
     color: #ff6348;
 }
 .op {

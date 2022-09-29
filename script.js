@@ -15,3 +15,8 @@ function getResult(){
 function clearScreen(){
     calcScreen.value="";
 }
+
+// Function to delete single value
+function del(){
+    calcScreen.value = calcScreen.value.slice(0, -1);
+}
