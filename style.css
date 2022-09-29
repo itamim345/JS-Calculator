@@ -74,6 +74,10 @@ span{
     .calculator {
         margin: 5rem 10rem;
     }
+    span{
+        padding: 1.2rem 1rem;
+        font-size: 2.5rem;
+    }
 }
 @media(max-width: 600px){
     .container{
