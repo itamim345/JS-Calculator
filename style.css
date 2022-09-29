@@ -58,11 +58,13 @@ body{
     background: #f9fafd;
     border-radius: 10px;
 }
-.btn-row,.top-btn-row,.bottom-btn-row span {
+
+span{
     font-size: 2rem;
     padding: .6rem 0;
-    cursor: pointer;
+    cursor: pointer; 
 }
+
 
 /******************** Responsive CSS ********************/
 @media(max-width: 800px){
